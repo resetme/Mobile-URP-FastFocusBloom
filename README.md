@@ -21,7 +21,7 @@ For all those reason i created new URP Fast Focus Bloom
 - Bloom only run on the fragment with the effect (NOT FULLSCREEN)
 - - This Technique is used in many "AAA" mobile games.
 
-##Profile
+## Profile
 
 - Own Fast Focus Bloom is less than 3 MS on Snapdragon 820.
 
