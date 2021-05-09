@@ -20,3 +20,11 @@ For all those reason i created new URP Fast Focus Bloom
 - Dual Filtering Sampling
 - Bloom only run on the fragment with the effect (NOT FULLSCREEN)
 - - This Technique is used in many "AAA" mobile games.
+
+##Profile
+
+- Own Fast Focus Bloom is less than 3 MS on Snapdragon 820.
+
+![Image](https://github.com/resetme/Mobile-URP-FastFocusBloom/blob/main/GitFiles/OPT.png)
+
+
