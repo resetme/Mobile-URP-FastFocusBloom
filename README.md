@@ -27,4 +27,10 @@ For all those reason i created new URP Fast Focus Bloom
 
 ![Image](https://github.com/resetme/Mobile-URP-FastFocusBloom/blob/main/GitFiles/OPT.png)
 
+## Area Info
 
+Bloom Block size can be set for more precise focus reducing GPU load.
+
+![Image](https://github.com/resetme/Mobile-URP-FastFocusBloom/blob/main/GitFiles/UnityBloomArea.png)
+
+![Image](https://github.com/resetme/Mobile-URP-FastFocusBloom/blob/main/GitFiles/FocusBloomArea.png)
