@@ -23,7 +23,7 @@ For all those reason i created new URP Fast Focus Bloom
 
 ## Profile
 
-- Own Fast Focus Bloom is less than 3 MS on Snapdragon 820.
+- Own Fast Focus Bloom is less than 1 MS on Snapdragon 820.
 
 ![Image](https://github.com/resetme/Mobile-URP-FastFocusBloom/blob/main/GitFiles/OPT.png)
 
