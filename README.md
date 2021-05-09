@@ -17,5 +17,6 @@ For all those reason i created new URP Fast Focus Bloom
 - NO GPU GMEM allocations
 - NO GPU stall
 - Only 4 Draw Call
+- Dual Filtering Sampling
 - Bloom only run on the fragment with the effect (NOT FULLSCREEN)
 - - This Technique is used in many "AAA" mobile games.
