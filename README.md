@@ -1,7 +1,7 @@
 # Mobile-URP-FastFocusBloom
-URP Bloom effect for mobile decvices
+URP Bloom effect for mobile devices
 
-After profiling in many devices and sharing information with Unity Forum, we all realize that Unity new URP Post Effect is nor suitable for all mobile devices.
+After profiling in many devices and sharing information with Unity Forum, i realize that Unity new URP Post Effect is not suitable for all mobile devices.
 
 - Size of Build 
 - Time of Build
